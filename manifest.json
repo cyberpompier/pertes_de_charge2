@@ -1,6 +1,6 @@
 {
   "name": "Pertes de Charge Pompier",
-  "short_name": "PDC Pompier",
+  "short_name": "PDC2 Pompier",
   "description": "Calculateur de pertes de charge pour sapeurs-pompiers.",
   "start_url": "/",
   "display": "standalone",

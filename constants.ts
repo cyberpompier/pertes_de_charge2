@@ -1,4 +1,4 @@
-import type { Diameter } from './types';
+import type { Diameter } from './types.ts';
 
 export const DIAMETERS: Readonly<Diameter[]> = [45, 70, 110];
 

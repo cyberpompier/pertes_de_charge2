@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { DIAMETERS, DIVISORS } from './constants';
-import type { Diameter } from './types';
+import { DIAMETERS, DIVISORS } from './constants.ts';
+import type { Diameter } from './types.ts';
 
 // --- Helper & Icon Components (Defined outside App to prevent re-creation) ---
 

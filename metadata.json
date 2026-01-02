@@ -1,0 +1,5 @@
+{
+  "name": "Calculateur Pertes de Charge Pompier",
+  "description": "Une application web pour calculer rapidement les pertes de charge dans les tuyaux des sapeurs-pompiers pour les diamètres 45, 70 et 110 mm, basée sur les formules standards.",
+  "requestFramePermissions": []
+}
